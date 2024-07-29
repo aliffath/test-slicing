@@ -4,7 +4,6 @@ This app was built with some technologies below:
 
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Next JS](https://nextjs.org/)
-- [Axios](https://axios-http.com/docs/intro)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Daisy UI](https://daisyui.com/)
 
@@ -16,18 +15,13 @@ Before going to the installation stage there are some software that must be inst
 
 ## Installation
 
-If you want to run this project locally, we recommend you configure the back-end first before configuring this repo front-end.
-
-- Clone the Repo
-
-```
-  git clone https://github.com/aliffath/test-slicing
-```
+If you want to run this project locally
 
 - Install Module
 
-```
-  npm install
+`
+npm install
+
 ```
 
 - Type `npm run dev` To Start Website
@@ -43,3 +37,4 @@ If you want to run this project locally, we recommend you configure the back-end
 - LinkedIn : [`/in/alif-miftakhul-fatah/`](https://www.linkedin.com/in/alif-miftakhul-fatah/)
 
 - GitHub : [`aliffath`](https://github.com/aliffath)
+```
