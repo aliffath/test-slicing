@@ -19,9 +19,8 @@ If you want to run this project locally
 
 - Install Module
 
-`
-npm install
-
+```
+  npm install
 ```
 
 - Type `npm run dev` To Start Website
@@ -37,4 +36,3 @@ npm install
 - LinkedIn : [`/in/alif-miftakhul-fatah/`](https://www.linkedin.com/in/alif-miftakhul-fatah/)
 
 - GitHub : [`aliffath`](https://github.com/aliffath)
-```
